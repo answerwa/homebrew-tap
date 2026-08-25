@@ -1,6 +1,6 @@
 cask "svn-repo-viewer" do
-  version "1.0.0"
-  sha256 "966a15f2a0147dde5bc2f00151df689610cfa3a37f116b3bfe896e55b55870e1"
+  version "1.1.0"
+  sha256 "15e9236b873418aed958592df8574fd7fef7e369024d2e953aa94789355c1023"
 
   url "https://github.com/answerwa/svn-repo-viewer/releases/download/v#{version}/SvnRepoViewer-#{version}.zip"
   name "SvnRepoViewer"
